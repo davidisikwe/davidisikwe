@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm David Isikwe</h1>
 <h3 align="center">Undergraduate student at University of South Dakota</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website.davidisikwe.repl.co/](https://portfolio-website.davidisikwe.repl.co/)
+
+
+- 👨‍💻 All of my projects are available at [https://davidisikwe.github.io/]
 
 - 📫 How to reach me **disikwe@gmail.com**
 
